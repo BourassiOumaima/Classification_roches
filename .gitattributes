@@ -1,3 +1,2 @@
-*.bin linguist-generated
-model.json linguist-generated
+*.html linguist-vendored
 
